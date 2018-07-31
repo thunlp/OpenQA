@@ -53,7 +53,7 @@ Evaluation Results
   <td class=xl70 style='border-left:none'>40.5</td>
   <td class=xl71>47.4</td>
   <td class=xl65>-</td>
-  <td class=xl71>　</td>
+  <td class=xl71>-</td>
  </tr>
  <tr height=21 style='height:16.0pt'>
   <td height=21 class=xl70 style='height:16.0pt'>R^3<font class="font7"> (Wang
