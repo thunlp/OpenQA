@@ -74,17 +74,11 @@ Evaluation Results
   <td class=xl73>48.7</td>
   <td class=xl74>56.3</td>
  </tr>
- <tr height=126 style='height:96.0pt;mso-xlrowspan:6'>
-  <td height=126 colspan=7 style='height:96.0pt;mso-ignore:colspan'></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'></td>
-  <td class=xl65></td>
-  <td colspan=5 style='mso-ignore:colspan'></td>
- </tr>
 </table>
+
 Data
 ==========
+
 We provide Quasar-T, SearchQA and TrivialQA  dataset we used for the task in data/ directory. We preprocess the original data to make it satisfy the input format of our codes, and can be download at [here](https://pan.baidu.com/s/1BqhNXINAs1ULP3ospJKkuA).
 
 To run our code, the dataset should be put in the folder data/ using the following format:
