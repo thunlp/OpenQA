@@ -116,15 +116,15 @@ Cite
 
 If you use the code, please cite the following paper:
 
-Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun. Denoising Distantly Supervised Open-Domain Question Answering. The 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018). [[pdf]](http://www.thunlp.org/~lyk/publications/acl2018_denoising.pdf)
+1. Yankai Lin, Haozhe Ji, Zhiyuan Liu, and Maosong Sun. 2018. Denoising Distantly Supervised Open-Domain Question Answering. In Proceedings of ACL. pages 1736--1745[[pdf]](http://www.thunlp.org/~lyk/publications/acl2018_denoising.pdf)
 
 Reference
 =========
 
-Bhuwan Dhingra, Hanxiao Liu, Zhilin Yang, William Cohen,  and  Ruslan  Salakhutdinov.  2017a.   Gated-attention  readers  for  text  comprehension.   In Proceedings of ACL. pages 1832–1846
+1. Bhuwan Dhingra, Hanxiao Liu, Zhilin Yang, William Cohen,  and Ruslan Salakhutdinov.  2017.  Gated-attention readers for text comprehension. In Proceedings of ACL. pages 1832--1846.
 
-Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi, and Hannaneh Hajishirzi. 2017.  Bidirectional attention flow for machine comprehension. InProceedings ofICLR.
+2. Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi, and Hannaneh Hajishirzi. 2017.  Bidirectional attention flow for machine comprehension. In Proceedings of ICLR.
 
-Christian  Buck,   Jannis  Bulian,   Massimiliano  Ciaramita, Andrea Gesmundo, Neil Houlsby, Wojciech Gajewski, and Wei Wang. 2017. Ask the right ques-tions: Active question reformulation with reinforcement learning.arXiv preprint arXiv:1705.07830.
+3. Christian Buck,  Jannis Bulian, Massimiliano Ciaramita, Andrea Gesmundo, Neil Houlsby, Wojciech Gajewski, and Wei Wang. 2017. Ask the right questions: Active question reformulation with reinforcement learning. arXiv preprint arXiv:1705.07830.
 
-Shuohang Wang, Mo Yu, Xiaoxiao Guo, Zhiguo Wang,Tim  Klinger,   Wei  Zhang,   Shiyu  Chang,   Gerald Tesauro, Bowen Zhou, and Jing Jiang. 2018.  R3:Reinforced ranker-reader for open-domain question answering. In Proceedings of AAAI.
+4. Shuohang Wang, Mo Yu, Xiaoxiao Guo, Zhiguo Wang,Tim Klinger, Wei Zhang, Shiyu Chang, Gerald Tesauro, Bowen Zhou, and Jing Jiang. 2018.  R3: Reinforced ranker-reader for open-domain question answering. In Proceedings of AAAI. pages 5981--5988.
