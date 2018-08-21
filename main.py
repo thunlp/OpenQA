@@ -531,10 +531,6 @@ def validate_unofficial_with_doc(args, data_loader, model, global_stats, exs_wit
             logger.info(aa[j]/bb[j])
     except:
         pass
-    logger.info(aa_sum)
-    if (mode=='dev' or mode =='train'):
-        g.write("*"*50+"\n")
-        g.close()
     logger.info('%s valid official with doc: Epoch = %d | EM = %.2f | ' %
                 (mode, global_stats['epoch'], exact_match.avg * 100) +
                 'F1 = %.2f | examples = %d | valid time = %.2f (s)' %
