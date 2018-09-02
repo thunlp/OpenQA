@@ -79,7 +79,7 @@ Evaluation Results
 Data
 ==========
 
-We provide Quasar-T, SearchQA and TrivialQA  dataset we used for the task in data/ directory. We preprocess the original data to make it satisfy the input format of our codes, and can be download at [here](https://pan.baidu.com/s/1BqhNXINAs1ULP3ospJKkuA).
+We provide Quasar-T, SearchQA and TrivialQA  dataset we used for the task in data/ directory. We preprocess the original data to make it satisfy the input format of our codes, and can be download at [here](https://thunlp.oss-cn-qingdao.aliyuncs.com/OpenQA_data.tar.gz).
 
 To run our code, the dataset should be put in the folder data/ using the following format:
 
