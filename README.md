@@ -72,8 +72,8 @@ Evaluation Results
   <td class=xl65>47.3</td>
   <td class=xl71>53.7</td>
  
-  <td class=xl65>37.5</td>
-  <td class=xl71>29.1</td>
+  <td class=xl65>29.1</td>
+  <td class=xl71>37.5</td>
  </tr>
  <tr height=21 style='height:16.0pt'>
   <td height=21 class=xl72 style='height:16.0pt'>Our Model</td>
@@ -84,8 +84,8 @@ Evaluation Results
   <td class=xl73>48.7</td>
   <td class=xl74>56.3</td>
  
-  <td class=xl73>36.6</td>
-  <td class=xl74>28.7</td>
+  <td class=xl73>28.7</td>
+  <td class=xl74>36.6</td>
  </tr>
 </table>
 
