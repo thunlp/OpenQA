@@ -15,9 +15,12 @@ Evaluation Results
   <td colspan=2 class=xl66 width=174 style='border-left:none;width:130pt'>Quasar-T</td>
   <td colspan=2 class=xl66 width=174 style='border-left:none;width:130pt'>SearchQA</td>
   <td colspan=2 class=xl66 width=174 style='border-left:none;width:130pt'>TrivialQA</td>
+ <td colspan=2 class=xl66 width=174 style='border-left:none;width:130pt'>SQuAD</td>
  </tr>
  <tr height=21 style='height:16.0pt'>
   <td height=21 class=xl66 style='height:16.0pt;border-top:none'>Models</td>
+  <td class=xl66 style='border-top:none;border-left:none'>EM</td>
+  <td class=xl66 style='border-top:none;border-left:none'>F1</td>
   <td class=xl66 style='border-top:none;border-left:none'>EM</td>
   <td class=xl66 style='border-top:none;border-left:none'>F1</td>
   <td class=xl66 style='border-top:none;border-left:none'>EM</td>
@@ -44,6 +47,8 @@ Evaluation Results
   <td class=xl71>34.6</td>
   <td class=xl65>-</td>
   <td class=xl71>-</td>
+  <td class=xl65>-</td>
+  <td class=xl71>-</td>
  </tr>
  <tr height=21 style='height:16.0pt'>
   <td height=21 class=xl70 style='height:16.0pt'>AQA <font class="font7">(Buck
@@ -52,6 +57,8 @@ Evaluation Results
   <td class=xl71>-</td>
   <td class=xl70 style='border-left:none'>40.5</td>
   <td class=xl71>47.4</td>
+  <td class=xl65>-</td>
+  <td class=xl71>-</td>
   <td class=xl65>-</td>
   <td class=xl71>-</td>
  </tr>
@@ -64,6 +71,9 @@ Evaluation Results
   <td class=xl71>55.3</td>
   <td class=xl65>47.3</td>
   <td class=xl71>53.7</td>
+ 
+  <td class=xl65>37.5</td>
+  <td class=xl71>29.1</td>
  </tr>
  <tr height=21 style='height:16.0pt'>
   <td height=21 class=xl72 style='height:16.0pt'>Our Model</td>
@@ -73,6 +83,9 @@ Evaluation Results
   <td class=xl74>64.5</td>
   <td class=xl73>48.7</td>
   <td class=xl74>56.3</td>
+ 
+  <td class=xl73>36.6</td>
+  <td class=xl74>28.7</td>
  </tr>
 </table>
 
