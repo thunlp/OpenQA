@@ -116,11 +116,11 @@ Train and Test
 ==========
 For training and test, you need to:
 
-1. Pre-train the paragraph reader:	python main --batch-size 256 --model-name quasart_reader --num-epochs 10 --dataset quasart --mode reader
+1. Pre-train the paragraph reader:	python main.py --batch-size 256 --model-name quasart_reader --num-epochs 10 --dataset quasart --mode reader
 
-2. Pre-train the paragraph selector: 	python main --batch-size 64 --model-name quasart_selector --num-epochs 10 --dataset quasart --mode selector --pretrained models/quasart_reader
+2. Pre-train the paragraph selector: 	python main.py --batch-size 64 --model-name quasart_selector --num-epochs 10 --dataset quasart --mode selector --pretrained models/quasart_reader.mdl
 
-3. Train the whole model: python main --batch-size 32 --model-name quasart_all --num-epochs 10 --dataset quasart --mode all --pretrained models/quasart_selector
+3. Train the whole model: python main.py --batch-size 32 --model-name quasart_all --num-epochs 10 --dataset quasart --mode all --pretrained models/quasart_selector.mdl
 
 
 
