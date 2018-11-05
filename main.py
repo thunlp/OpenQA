@@ -739,7 +739,7 @@ def main(args):
         if (args.mode == 'reader'):
             pretrain_reader(args, train_loader_with_doc, model, stats, train_exs_with_doc, train_docs)
         if (args.mode == 'selector'):
-            pretrain_ranker(args, train_loader_with_doc, model, stats, train_exs_with_doc, train_docs)
+            pretrain_selector(args, train_loader_with_doc, model, stats, train_exs_with_doc, train_docs)
         
         result = validate_unofficial_with_doc(args, dev_loader_with_doc, model, stats, dev_exs_with_doc, dev_docs, 'dev')
         validate_unofficial_with_doc(args, train_loader_with_doc, model, stats, train_exs_with_doc, train_docs, 'train')
