@@ -1,7 +1,18 @@
 # Open-QA
 
 The source codes for paper "Denoising Distantly Supervised Open-Domain Question Answering", which is modified based on the [code](https://github.com/facebookresearch/DrQA) of paper " Reading Wikipedia to Answer Open-Domain Questions."
-
+Requirements
+==========
+pytorch 0.3.0
+numpy
+scikit-learn
+termcolor
+regex
+tqdm
+prettytable
+scipy
+nltk
+pexpect 4.2.1
 
 Evaluation Results
 ==========
